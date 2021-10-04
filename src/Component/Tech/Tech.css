@@ -1,0 +1,16 @@
+.cover-2{
+    background-image: url(../../signup-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+    
+}
+.padding-2{
+    padding-top: 100px;
+    font-weight: 700;
+    color: white;
+    font-size: 64px;
+    
+}

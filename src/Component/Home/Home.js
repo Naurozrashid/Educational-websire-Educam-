@@ -30,8 +30,8 @@ const Home = () => {
             }
             </div>
             <div>
-                <h1 className="mt-5">Online Traning Center for <span style={{color:'orangered'}}>Adults and Children</span>. The fear of the</h1>
-                <h1>environment, the arrows of the EU, the warm need, the pull of the bed. Perfect for the free.</h1>
+                <h1 className="mt-5">Online Traning Center for <span style={{color:'orangered'}}>Adults and Children</span>. Join With Us,</h1>
+                <h1>Become pro.</h1>
                 <div className="row g-2  align-items-center mt-5 justify-content-center">
                     <div className="col-lg-3 align-items-center con ">
                     <i class="fas fa-laptop size pb-4"></i>

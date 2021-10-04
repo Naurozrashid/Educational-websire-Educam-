@@ -25,6 +25,9 @@ const Header = () => {
                   <NavLink className="nav-link nav-margin fs-5 fw-bold text-white" to="/courses">Courses</NavLink> 
                   </li>
                   <li className="nav-item">
+                  <NavLink className="nav-link nav-margin fs-5 fw-bold text-white" to="/tech">Teach On Educam</NavLink>
+                  </li>
+                  <li className="nav-item">
                   <NavLink className="nav-link nav-margin fs-5 fw-bold text-white" to="/contact">Contacts</NavLink> 
                   </li>
                   

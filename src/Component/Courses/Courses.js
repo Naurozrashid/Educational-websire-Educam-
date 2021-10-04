@@ -22,7 +22,8 @@ const Courses = () => {
            </div></div> 
            </div>
         
-           <div className="row row-cols-1 row-cols-md-1 g-4">
+          <div className="container-fluid">
+          <div className="row row-cols-1 row-cols-md-1 g-4">
                {
                   allcourses.map(allcourses => <Allcourses
                   key={allcourses.key}
@@ -31,6 +32,7 @@ const Courses = () => {
 
                }
 
+          </div>
           </div>
 
         </div>
