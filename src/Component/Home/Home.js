@@ -34,19 +34,19 @@ const Home = () => {
                 <h1>Become pro.</h1>
                 <div className="row g-2  align-items-center mt-5 justify-content-center">
                     <div className="col-lg-3 align-items-center con ">
-                    <i class="fas fa-laptop size pb-4"></i>
+                    <i className="fas fa-laptop size pb-4"></i>
                     <h1>Individuality</h1>
                     </div>
                     <div className="con col-lg-3">
-                    <i class="fas fa-book size pb-4"></i>
+                    <i className="fas fa-book size pb-4"></i>
                     <h1>Effective Programs</h1>
                     </div>
                     <div className="con col-lg-3">
-                    <i class="fas fa-headphones size pb-4"></i>
-                    <h1>Online Training Care and Support</h1>
+                    <i className="fas fa-headphones size pb-4"></i>
+                    <h1>Online Training</h1>
                     </div>
                     <div className="con col-lg-3">
-                    <i class="fas fa-comments size pb-4"></i>
+                    <i className="fas fa-comments size pb-4"></i>
                     <h1>Care and Support</h1>
                     </div>
 

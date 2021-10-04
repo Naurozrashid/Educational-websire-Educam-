@@ -17,35 +17,35 @@ const Tech = () => {
             </div>
         <div className="container-fluid">
         <div className="row row-cols-1 row-cols-md-3 g-4">
-         <div class="col">
-    <div class="card h-100">
+         <div className="col">
+    <div className="card h-100">
     <img style={{ borderRadius:'30px', height: '25rem'}} src={img1} className="card-img-top img-style p-3" alt="..."/>
-      <div class="card-body">
-        <h1 class="card-title">Plan Your Curriculum</h1>
-        <p style={{fontSize:'32px'}} class="card-text">You start with your passion and knowledge. Then choose a promising topic with the help of our Marketplace Insights tool.</p>
-        <p style={{fontSize:'32px'}} class="card-text">The way that you teach — what you bring to it — is up to you.</p>
+      <div className="card-body">
+        <h1 className="card-title">Plan Your Curriculum</h1>
+        <p style={{fontSize:'32px'}} className="card-text">You start with your passion and knowledge. Then choose a promising topic with the help of our Marketplace Insights tool.</p>
+        <p style={{fontSize:'32px'}} className="card-text">The way that you teach — what you bring to it — is up to you.</p>
         
       </div>
     </div>
          </div>
-         <div class="col">
-    <div class="card h-100">
+         <div className="col">
+    <div className="card h-100">
     <img style={{ borderRadius:'30px', height: '25rem'}} src={img2} className="card-img-top img-style p-3" alt="..."/>
-      <div class="card-body">
-        <h1 class="card-title">Record Your Video</h1>
-        <p style={{fontSize:'32px'}} class="card-text">Use basic tools like a smartphone or a DSLR camera. Add a good microphone and you’re ready to start.</p>
-        <p style={{fontSize:'32px'}} class="card-text">If you don’t like being on camera, just capture your screen. Either way, we recommend two hours or more of video for a paid course.</p>
+      <div className="card-body">
+        <h1 className="card-title">Record Your Video</h1>
+        <p style={{fontSize:'32px'}} className="card-text">Use basic tools like a smartphone or a DSLR camera. Add a good microphone and you’re ready to start.</p>
+        <p style={{fontSize:'32px'}} className="card-text">If you don’t like being on camera, just capture your screen. Either way, we recommend two hours or more of video for a paid course.</p>
         
       </div>
     </div>
          </div>
-         <div class="col">
-    <div class="card h-100">
+         <div className="col">
+    <div className="card h-100">
     <img style={{ borderRadius:'30px', height: '25rem'}} src={img3} className="card-img-top img-style p-3" alt="..."/>
-      <div class="card-body">
-        <h1 class="card-title">Lanuch Your Video</h1>
-        <p style={{fontSize:'32px'}} class="card-text">Gather your first ratings and reviews by promoting your course through social media and your professional networks.</p>
-        <p style={{fontSize:'32px'}} class="card-text">Your course will be discoverable in our marketplace where you earn revenue from each paid enrollment.</p>
+      <div className="card-body">
+        <h1 className="card-title">Lanuch Your Video</h1>
+        <p style={{fontSize:'32px'}} className="card-text">Gather your first ratings and reviews by promoting your course through social media and your professional networks.</p>
+        <p style={{fontSize:'32px'}} className="card-text">Your course will be discoverable in our marketplace where you earn revenue from each paid enrollment.</p>
       </div>
     </div>
          </div>

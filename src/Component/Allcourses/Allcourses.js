@@ -8,8 +8,8 @@ const Allcourses = (props) => {
         <div className="py-5">
             
             <div className="row">
-                <div className="col-lg-4"><img style={{ borderRadius:'30px'}} src={img} alt="" /></div>
-                <div className="col-lg-8 text-start">
+                <div className="col-lg-6"><img style={{ borderRadius:'30px'}} src={img} alt="" /></div>
+                <div className="col-lg-6 text-start">
                     <h3><i className="fas fa-user icon-style"></i> {instructor}</h3>
                     <h1>{course_name}</h1>
                     <div className="d-flex py-3">

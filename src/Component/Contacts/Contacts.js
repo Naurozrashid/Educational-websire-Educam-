@@ -40,7 +40,7 @@ const Contacts = () => {
             </div>
             <div className="d-flex col-md-3 justify-content-around">
               <div>
-              <i class="fas fa-clock icon-style-about "></i>
+              <i className="fas fa-clock icon-style-about "></i>
               <h2>Working Hours</h2>
               <h4>Wednesday - Sunday</h4>
               <h4>7:00 AM - 5:00 PM</h4>
