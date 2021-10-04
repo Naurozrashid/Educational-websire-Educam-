@@ -14,3 +14,31 @@
     color: white;
     
 }
+.text-color{
+    color: #f6520a;
+    font-weight: 400;
+}
+.heding-style{
+   font-weight: 900;
+   line-height: 1.3rem;
+   font-size: 48px;
+   }
+.divider{
+    width: 300px;
+    height: 5px;
+    background-color: tomato;
+    display: inline-block;
+    
+}
+.btn-regular{
+    background: #FF416C;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/* style={{ backgroundColor: 'goldenrod', width: '350px',height: '45px',border: '1px solid gray', borderRadius: '5px',cursor: 'pointer'}} */
+width: 350px;
+height: 45px;
+border: 1px solid gray;
+border-radius: 10px;
+color: white;
+font-weight: bold;
+}
