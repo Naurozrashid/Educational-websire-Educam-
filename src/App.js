@@ -7,6 +7,7 @@ import Home from './Component/Home/Home';
 import About from './Component/About/About';
 import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
+import Contacts from './Component/Contacts/Contacts';
 
 // import About from './components/About/About';
 
@@ -25,8 +26,8 @@ function App() {
           <Route path="/courses">
             <Courses></Courses>
           </Route>
-          <Route path="/about">
-            <About></About>
+          <Route path="/contact">
+            <Contacts></Contacts>
           </Route>
          <Route path="*">
            <NotFound></NotFound>

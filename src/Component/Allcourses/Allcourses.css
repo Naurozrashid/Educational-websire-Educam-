@@ -7,3 +7,7 @@
 .text-color-1{
     color: rgb(160, 157, 157)
 }
+.fSize{
+    font-size: 32px;
+    font-weight: 600;
+}

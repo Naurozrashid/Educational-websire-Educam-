@@ -29,6 +29,29 @@ const Home = () => {
               ></Bestcourses>)
             }
             </div>
+            <div>
+                <h1 className="mt-5">Online Traning Center for <span style={{color:'orangered'}}>Adults and Children</span>. The fear of the</h1>
+                <h1>environment, the arrows of the EU, the warm need, the pull of the bed. Perfect for the free.</h1>
+                <div className="row g-2  align-items-center mt-5 justify-content-center">
+                    <div className="col-lg-3 align-items-center con ">
+                    <i class="fas fa-laptop size pb-4"></i>
+                    <h1>Individuality</h1>
+                    </div>
+                    <div className="con col-lg-3">
+                    <i class="fas fa-book size pb-4"></i>
+                    <h1>Effective Programs</h1>
+                    </div>
+                    <div className="con col-lg-3">
+                    <i class="fas fa-headphones size pb-4"></i>
+                    <h1>Online Training Care and Support</h1>
+                    </div>
+                    <div className="con col-lg-3">
+                    <i class="fas fa-comments size pb-4"></i>
+                    <h1>Care and Support</h1>
+                    </div>
+
+                </div>
+            </div>
             </div>
             
            

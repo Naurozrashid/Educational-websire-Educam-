@@ -1,0 +1,23 @@
+.icon-style-about{
+    background-color: orangered;
+    padding: 4px;
+    font-size: 32px;
+    height: 60px;
+    width: 60px;
+    line-height: 50px;
+    border-radius: 50%;
+    color: white;
+}
+.divider-about{
+   border-right: 10px solid orangered;
+    
+}
+.text-center-1{
+    text-align: center !important;
+}
+.bg-cus{
+    background-color: #F6EFEB;
+    border-radius: 20px;
+    
+    text-align: center !important;
+}

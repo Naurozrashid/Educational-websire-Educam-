@@ -18,7 +18,7 @@ const Courses = () => {
                 <div className="d-flex justify-content-center pt-4">
                     <div className="input-group mb-3 w-50 ">
         <input type="text" className="form-control" placeholder="Search Courses"  aria-describedby="button-addon2"/>
-         <button  type="button" id="button-addon2"><i class="fas fa-search"></i></button>
+         <button  type="button" id="button-addon2"><i className="fas fa-search"></i></button>
            </div></div> 
            </div>
         
