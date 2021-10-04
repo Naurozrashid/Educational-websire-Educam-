@@ -1,7 +1,7 @@
 # Educam(Online Education Website)
 
     To Make Learning Easier and faster
-    #live site:(https://educational-website-nauroz.netlify.app/)
+    #live site:https://educational-website-nauroz.netlify.app/
 
 ## Tools 
  1) Javascript 
