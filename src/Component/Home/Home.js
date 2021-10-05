@@ -1,6 +1,7 @@
 import React, { useState,useEffect } from 'react';
 import Bestcourses from '../Bestcourses/Bestcourses';
 import './Home.css'
+import "animate.css"
 
 const Home = () => {
     const [pcourses, setPcourses] = useState([]);
@@ -12,7 +13,7 @@ const Home = () => {
     return (
         <div>
             <div className="cover">
-            <h1 className="padding">Home</h1>
+            <h1 className="padding animate__animated animate__bounce">Home</h1>
             </div>
             <div className="mt-5">
                 <h4 className="text-color">Start Now</h4>

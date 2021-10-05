@@ -8,6 +8,7 @@ import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
 import Contacts from './Component/Contacts/Contacts';
 import Tech from './Component/Tech/Tech';
+import "animate.css"
 
 // import About from './components/About/About';
 

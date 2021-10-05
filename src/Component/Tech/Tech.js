@@ -9,7 +9,7 @@ const Tech = () => {
     return (
         <div>
              <div className="cover">
-            <h1 className="padding">Teach On Educam</h1>
+            <h1 className="padding animate__animated animate__backInDown">Teach On Educam</h1>
             </div>
             <div>
                 <h1 className="fw-bold my-5">How to Begin</h1>
@@ -60,7 +60,7 @@ const Tech = () => {
             <h1 className="padding-2">Become an instructor today</h1>
             <h3 style={{fontSize:'32px'}} className="text-white">Join one of the world’s largest online learning marketplaces.</h3>
             <Link to="/tech">
-            <button style={{fontSize:'32px',height: '65px'}}  className=" btn-regular my-4">Join Now <i className="fas fa-arrow-right"></i></button>
+            <button style={{fontSize:'32px',height: '65px'}}  className=" btn-regular my-4 animate__animated animate__flipInX">Join Now <i className="fas fa-arrow-right"></i></button>
         </Link>
             </div>
         </div>

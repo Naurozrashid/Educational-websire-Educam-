@@ -6,7 +6,7 @@ const Contacts = () => {
     return (
         <div>
              <div className="cover">
-            <h1 className="padding">Contacts</h1>
+            <h1 className="padding animate__animated animate__backInDown">Contacts</h1>
             </div>
             <div className="container mt-5">
             <div className="mt-5 row justify-content-evenly">
@@ -64,7 +64,7 @@ const Contacts = () => {
           <label for="floatingTextarea">Comments</label>
              </div>
              <Link to="/home">
-            <button  className="fs-6 fw-bold btn-regular mb-4">Submit</button>
+            <button  className="fs-6 fw-bold btn-regular mb-4 animate__animated animate__flipInX">Submit</button>
         </Link>
         </div>
        </div>

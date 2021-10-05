@@ -22,7 +22,7 @@ const Allcourses = (props) => {
                     <h1>Price:{price}</h1>
                     <p className="text-color-1 fSize py-3">{description}</p>
                     <Link to="/courses">
-              <button  className="fs-6 fw-bold btn-regular">Enroll <i className="fas fa-arrow-right"></i></button>
+              <button  className="fs-6 fw-bold btn-regular animate__animated animate__flipInX">Enroll <i className="fas fa-arrow-right"></i></button>
         </Link>
                 </div>
             </div>

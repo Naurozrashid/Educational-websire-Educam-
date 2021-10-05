@@ -18,7 +18,7 @@ const bestCourses = (props) => {
         <h3>Rating:<i className="fas fa-star" style={{color:'orangered'}}></i>{rating}</h3>
         <p className="card-text fs-3">{description}</p>
         <Link to="/courses">
-            <button  className="fs-6 fw-bold btn-regular">See More <i className="fas fa-arrow-right"></i></button>
+            <button  className="fs-6 fw-bold btn-regular animate__animated animate__flipInX">See More <i className="fas fa-arrow-right"></i></button>
         </Link>
       </div>
     </div>

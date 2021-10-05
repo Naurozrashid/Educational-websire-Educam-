@@ -11,7 +11,7 @@ const Courses = () => {
     return (
         <div>
             <div className="cover">
-            <h1 className="padding">Courses</h1>
+            <h1 className="padding animate__animated animate__backInDown">Courses</h1>
             </div>
            <div className="p-5">
                <h1>All Courses</h1>
